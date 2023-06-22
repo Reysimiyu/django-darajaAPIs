@@ -6,7 +6,7 @@ from django.http import HttpResponse
 
 def Index(request):
     cl=MpesaClient()
-    phone_number='0745904565'
+    phone_number='0791218109'
     amount=1
     account_reference='CompanyXLTD'
     transaction_desc='Payment to daraja-sandbox'
